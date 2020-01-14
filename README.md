@@ -2,10 +2,10 @@
 Advanced file synchronization/backup with 2+ computers and a fuse filesystem to support better notifications then what is built into linux/osx.   Also includes elements of a union filesystem.   With support for external plugins. 
 
 
-#Issues : 
+# Issues : 
     
 
-#bug/features : 
+# bug/features : 
 
 
     DATE
